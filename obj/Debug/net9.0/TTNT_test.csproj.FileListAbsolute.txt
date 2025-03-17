@@ -1,0 +1,15 @@
+C:\TTNT\TTNT_test\bin\Debug\net9.0\TTNT_test.exe
+C:\TTNT\TTNT_test\bin\Debug\net9.0\TTNT_test.deps.json
+C:\TTNT\TTNT_test\bin\Debug\net9.0\TTNT_test.runtimeconfig.json
+C:\TTNT\TTNT_test\bin\Debug\net9.0\TTNT_test.dll
+C:\TTNT\TTNT_test\bin\Debug\net9.0\TTNT_test.pdb
+C:\TTNT\TTNT_test\obj\Debug\net9.0\TTNT_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\TTNT\TTNT_test\obj\Debug\net9.0\TTNT_test.AssemblyInfoInputs.cache
+C:\TTNT\TTNT_test\obj\Debug\net9.0\TTNT_test.AssemblyInfo.cs
+C:\TTNT\TTNT_test\obj\Debug\net9.0\TTNT_test.csproj.CoreCompileInputs.cache
+C:\TTNT\TTNT_test\obj\Debug\net9.0\TTNT_test.sourcelink.json
+C:\TTNT\TTNT_test\obj\Debug\net9.0\TTNT_test.dll
+C:\TTNT\TTNT_test\obj\Debug\net9.0\refint\TTNT_test.dll
+C:\TTNT\TTNT_test\obj\Debug\net9.0\TTNT_test.pdb
+C:\TTNT\TTNT_test\obj\Debug\net9.0\TTNT_test.genruntimeconfig.cache
+C:\TTNT\TTNT_test\obj\Debug\net9.0\ref\TTNT_test.dll

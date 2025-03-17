@@ -1,9 +1,2 @@
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Xin chào từ C# trên VS Code!");
-    }
-}
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
